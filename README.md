@@ -1,2 +1,1 @@
-# Test-tic-tac-toe
- 
+กด Select option ดูผลลัพธ์ใน preview network 
